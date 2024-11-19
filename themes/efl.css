@@ -30,10 +30,9 @@
   --fds-radius-large: 0px;
   --fds-spacing-alert-alert-rounal: var(--fds-spacing-spacing-scale-10);
   --fds-spacing-alert-alert-padding: var(--fds-spacing-spacing-scale-6);
-  --fds-surface-secondary-button-cta-surface-default: #ffffff;
+  --fds-surface-secondary-button-surface-default: #ffffff;
   --fds-border-primary-button-border-border-cta: #ffffff00;
   --fds-surface-accordion-accordion-arrow: #041c39;
-  --fds-surface-primary-button-focus: #ffdd00;
   --fds-surface-general-surface-light: var(--fds-colour-efl-secondary-white);
   --fds-surface-icons-surface-icon-blue: var(--fds-colour-efl-fa-blue-fa-blue-900);
   --fds-surface-general-surface-background-grey: var(--fds-colour-efl-secondary-light-grey);
@@ -46,11 +45,11 @@
   --fds-surface-date-picker-date-picker: var(--fds-colour-efl-brand-navy-navy-900);
   --fds-surface-checkbox-radio-button-default: var(--fds-colour-efl-secondary-accent-grey);
   --fds-surface-date-picker-month-year-dropdwon: var(--fds-colour-efl-secondary-light-blue);
-  --fds-surface-secondary-button-cta-surface-disabled: var(--fds-colour-efl-secondary-white);
+  --fds-surface-secondary-button-surface-disabled: var(--fds-colour-efl-secondary-white);
   --fds-surface-checkbox-radio-button-checked: var(--fds-colour-efl-brand-navy-navy-900);
-  --fds-surface-secondary-button-cta-surface-pressed: var(--fds-colour-efl-secondary-light-grey);
+  --fds-surface-secondary-button-surface-pressed: var(--fds-colour-efl-secondary-light-grey);
   --fds-surface-card-card: var(--fds-colour-efl-secondary-white);
-  --fds-surface-secondary-button-cta-surface-hover: var(--fds-colour-efl-secondary-light-blue);
+  --fds-surface-secondary-button-surface-hover: var(--fds-colour-efl-secondary-light-blue);
   --fds-border-date-picker-date-picker-date-dropdown: var(--fds-colour-efl-secondary-light-blue);
   --fds-border-general-border: var(--fds-colour-efl-secondary-light-grey);
   --fds-border-general-tag: var(--fds-colour-efl-secondary-light-blue);
@@ -110,6 +109,7 @@
   --fds-surface-general-surface-black: var(--fds-colour-efl-secondary-black);
   --fds-surface-general-surface-dark-active: var(--fds-colour-efl-secondary-black);
   --fds-surface-general-surface-dark-navy: var(--fds-colour-efl-brand-navy-navy-900);
+  --fds-surface-primary-button-focus: var(--fds-colour-accessibility-accessibility-focus);
   --fds-surface-primary-button-surface-selected: var(--fds-colour-efl-brand-blue-blue-900);
   --fds-border-primary-button-border-border-selected: var(--fds-colour-efl-brand-blue-blue-900);
 }
