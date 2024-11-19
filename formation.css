@@ -99,8 +99,8 @@
   --fds-surface-general-surface-background-grey: #ffffff;
   --fds-surface-general-surface-blue: #ffffff;
   --fds-surface-general-surface-red: #ffffff;
-  --fds-surface-secondary-button-cta-surface-default: #ffffff;
-  --fds-surface-secondary-button-cta-surface-hover: #ffffff00;
+  --fds-surface-secondary-button-surface-default: #ffffff;
+  --fds-surface-secondary-button-surface-hover: #ffffff00;
   --fds-border-alert-border-alert-keyline: #ffffff;
   --fds-border-primary-button-border-border-cta: #ffffff00;
   --fds-text-general-headline-light-text: #ffffff;
@@ -134,9 +134,9 @@
   --fds-surface-date-picker-date-picker: var(--fds-colour-base-primary-grey);
   --fds-surface-checkbox-radio-button-default: var(--fds-colour-base-primary-grey);
   --fds-surface-date-picker-month-year-dropdwon: var(--fds-colour-base-primary-grey);
-  --fds-surface-secondary-button-cta-surface-disabled: var(--fds-colour-base-primary-light-grey);
+  --fds-surface-secondary-button-surface-disabled: var(--fds-colour-base-primary-light-grey);
   --fds-surface-checkbox-radio-button-checked: var(--fds-colour-base-primary-dark-blue);
-  --fds-surface-secondary-button-cta-surface-pressed: var(--fds-colour-base-primary-dark-blue);
+  --fds-surface-secondary-button-surface-pressed: var(--fds-colour-base-primary-dark-blue);
   --fds-surface-card-card: var(--fds-colour-base-primary-light-grey);
   --fds-border-date-picker-date-picker-date-dropdown: var(--fds-colour-base-primary-grey);
   --fds-border-general-border: var(--fds-colour-base-primary-light-grey);
