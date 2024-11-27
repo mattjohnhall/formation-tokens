@@ -20,7 +20,7 @@
   --fds-surface-card-card: #ffffff00;
   --fds-surface-secondary-button-surface-hover: #ffffff00;
   --fds-border-date-picker-date-picker-date-dropdown: #ffffff00;
-  --fds-border-general-border: #ffffff00;
+  --fds-border-general-border-primary: #ffffff00;
   --fds-border-general-tag: #ffffff00;
   --fds-border-breadcrumb-breadcrumb-div: #ffffff00;
   --fds-border-breadcrumb-breadcrumb-div-active: #ffffff00;
@@ -81,6 +81,6 @@
   --fds-surface-general-surface-dark-navy: #ffffff;
   --fds-surface-primary-button-focus: #ffffff;
   --fds-surface-primary-button-surface-selected: #ffffff;
-  --fds-border-primary-button-border-border-selected: #ffffff;
+  --fds-border-primary-button-border-input-field-selected: #ffffff;
   --fds-text-primary-button-text-button-cta: var(--fds-colour-efl-secondary-black);
 }
